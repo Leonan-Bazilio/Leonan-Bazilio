@@ -1,16 +1,22 @@
-### Hi there 👋
+# Leonan Bazilio Gomes - Desenvolvedor Full Stack
 
-<!--
-**Leonan-Bazilio/Leonan-Bazilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋
 
-Here are some ideas to get you started:
+Sou o Leonan Bazilio Gomes, sempre adorei coisas relacionadas a raciocinio logico tanto que tenho 7 medalhas da OBMEP e 2 de xadrez, o que me fez apaixonar pela programação foi o backend e estou me especializando justamente nele mas tenho conhecimento de front tambem. é uma area que pretendo continuar estudando e me desenvolvendo a cada dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hard Skills
+
+- JavaScript
+- Node.js
+
+
+
+Estou animado para conectar e colaborar. Se você quiser saber mais, sinta-se à vontade para [entrar em contato](https://www.linkedin.com/in/leonan-bazilio-662000281). Vamos construir algo incrível juntos!
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=mail.ru)](mailto:leonanbaziliodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonan-bazilio-662000281)
+
+Mantenha a curiosidade, continue aprendendo e vamos em frente rumo ao sucesso! 🚀👨‍💻
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonan-Bazilio&theme=dracula&custom_title=Linguagens%20%Usadas:)
