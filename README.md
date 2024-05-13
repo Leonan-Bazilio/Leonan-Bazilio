@@ -8,6 +8,9 @@ Sou o Leonan Bazilio Gomes, sempre adorei coisas relacionadas a raciocinio logic
 
 - JavaScript
 - Node.js
+- React
+- Java
+- Git e GitHub
 
 
 
